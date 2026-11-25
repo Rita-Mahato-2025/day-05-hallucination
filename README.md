@@ -20,3 +20,9 @@ Draft with AI. Verify before you trust.
 | 05-captions/ | Platform copy |
 | 06-thumbnail.md | Thumbnail concept |
 | 07-quiz.md | 3-question quiz |
+
+## About
+Created by Rita · [LinkedIn](https://www.linkedin.com/in/mahato-rita/) · [YouTube](https://www.youtube.com/@RitaRecodes)
+
+## License
+Content © Rita. Share with credit.
