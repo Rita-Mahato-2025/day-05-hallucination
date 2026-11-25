@@ -25,4 +25,7 @@ Draft with AI. Verify before you trust.
 Created by Rita · [LinkedIn](https://www.linkedin.com/in/mahato-rita/) · [YouTube](https://www.youtube.com/@RitaRecodes)
 
 ## License
-Content © Rita. Share with credit.
+© 2026 Rita. This work is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+You're free to share and adapt it, as long as you give credit:
+"Rita Recodes · AI in 30 Days" with a link to this repo.
