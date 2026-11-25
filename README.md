@@ -5,7 +5,7 @@
 **Concept:** AI hallucination: answers that sound right but are made up.
 **Length:** ~2:37 · 
 **Format:** 9:16 animated story
-**Watch:** [LinkedIn](https://lnkd.in/p/d7qkECKj) · [Instagram](https://www.instagram.com/reel/DgKex1Ghqdj/?gwpx=d21xbDJtcnc5bTM0) · [YouTube Short](LINK)
+**Watch:** [LinkedIn](https://lnkd.in/p/d7qkECKj) · [Instagram](https://www.instagram.com/reel/DgKex1Ghqdj/?gwpx=d21xbDJtcnc5bTM0) · [YouTube Short](https://youtube.com/shorts/CSg5i3OHlL8)
 
 ## Takeaway
 Draft with AI. Verify before you trust.
@@ -20,6 +20,3 @@ Draft with AI. Verify before you trust.
 | 05-captions/ | Platform copy |
 | 06-thumbnail.md | Thumbnail concept |
 | 07-quiz.md | 3-question quiz |
-
-## Tools used
-(List the image, video and voice tools you used.)
