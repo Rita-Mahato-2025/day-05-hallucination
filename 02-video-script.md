@@ -1,4 +1,4 @@
-## ** Day 5 of 20: The Robot That Almost Won the Science Fair **
+## **Day 5 of 20: The Robot That Almost Won the Science Fair**
 
 ### **Format: Animated or illustrated story, voiceover with character voices**
 ### **Length: About 90 seconds**
