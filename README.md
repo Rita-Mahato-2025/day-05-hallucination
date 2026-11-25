@@ -1,6 +1,6 @@
 # Day 5: The Robot That Almost Won the Science Fair
 
-![Day 5 thumbnail](thumbnail/thumbnail.png)
+![Day 5 thumbnail](05-thumbnail/Thumbnail.png)
 
 **Concept:** AI hallucination: answers that sound right but are made up.
 **Length:** ~2:37 · 
